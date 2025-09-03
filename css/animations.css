@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#curvy_flower {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 0;
+}
+
+#curvy_flipped {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    right: 0;
+}
+
+/* g {
+    visibility: hidden;
+} */
